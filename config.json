@@ -1,0 +1,7 @@
+{
+    "name": "Gradle 2 用户指南",
+    "introduction": "Gradle 是以 Groovy 语言为基础，面向 Java 应用为主。基于 DSL（领域特定语言）语法的自动化构建工具。",
+    "title": "基于 JVM 的富有突破性的构建工具 - 极客学院 Wiki",
+    "keywords": "日常应用,开发工具",
+    "description": "Gradle 2 用户指南，由浅入深的讲解了 Gradle 2 的搭建及使用，方便读者循序渐进的学习。"
+}
